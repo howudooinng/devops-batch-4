@@ -8,3 +8,4 @@ git push
 
 checking if push is working or not
  
+checking if pull is working
