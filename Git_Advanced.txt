@@ -28,3 +28,8 @@ SO EACH BRANCH HAS A HEAD AT THE LATEST COMMIT OF THAT BRANCH.
 
 GIT REVERT ?? - when to use 
 
+git revert "commit id"
+
+while working on projects you need to be trasnsprent and then when you do revert, it will have the git commit id also which will denote that it will show what you have reverted.
+revert will also be a new commit
+
